@@ -1,0 +1,14 @@
+# Bài 1
+print("Hello World")
+# bài 2
+d = "Hello World"
+print(2)
+# bài 3
+a_variable ="Hello"
+b_variable ="World"
+c_variable = a_variable +''+b_variable
+print(c_variable)
+# bài 4
+def print_Hello_World(6):
+    print(6)
+print_Hello_World(c_variable)
