@@ -9,6 +9,6 @@ b_variable ="World"
 c_variable = a_variable +''+b_variable
 print(c_variable)
 # bài 4
-def print_Hello_World(6):
-    print(6)
+def print_Hello_World(e):
+    print(e)
 print_Hello_World(c_variable)
