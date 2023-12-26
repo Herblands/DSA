@@ -2,7 +2,7 @@
 print("Hello World")
 # bài 2
 d = "Hello World"
-print(2)
+print(d)
 # bài 3
 a_variable ="Hello"
 b_variable ="World"
